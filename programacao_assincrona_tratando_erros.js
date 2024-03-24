@@ -9,7 +9,7 @@ na minha função de enviar emial se apor algum motivo uma falha acontece
 ela recebe true, e quando a função de call back é chamada ela recebe a variavel 
 deuErro como parametro 
 
-e dentro dela exite a logica para se executada em caso de erros 
+e dentro dela existe a lógica para se executada em caso de erros 
 no caso aqui eu apenas coloco um texto de aviso mais ação a ser tomada vai 
 depender muito do contexto 
 
