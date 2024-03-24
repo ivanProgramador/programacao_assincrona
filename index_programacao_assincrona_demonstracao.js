@@ -32,7 +32,7 @@ function enviarEmail(corpo,para){
 
 
 
-console.log('Inicio de evnvio de E-mail');
+console.log('Inicio de envio de E-mail');
 enviarEmail('Seja bem vindo','Victor Lima');
 console.log('Seu e-mail foi enviado deve chegar em minutos');
 console.log('Tudo, OK');
